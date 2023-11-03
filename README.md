@@ -1,6 +1,6 @@
-## Project setup
+## Project setup 
 ```
-npm install
+npm install 16
 ```
 
 ### Compiles and hot-reloads for development
@@ -8,12 +8,5 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+App running at:
+- Local:   http://localhost:4000/main/ 
