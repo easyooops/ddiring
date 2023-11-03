@@ -2,7 +2,7 @@ export default [
   {
     id: "1",
     icon: "mdi mdi-view-dashboard",
-    title: "Dashboard",
+    title: "DDiring",
     to: "/starter",
   },
 
